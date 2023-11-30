@@ -19,8 +19,8 @@ creator_key = mnemonic.to_private_key(creator_mnemonic)
 #Alter these details as you wish. 
 #Keep the manager, reserve, freeze, and clawback address the same as these point back to the variable defined at the beginning.
 asset_details = {
-	"asset_name": "ChoiceCoin",
-	"unit_name": "Choice",
+	"asset_name": "diSedCoin",
+	"unit_name": "diSed",
 	"total": 100000000000,
 	"decimals": 2,
 	"default_frozen": False,
